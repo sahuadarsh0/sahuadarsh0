@@ -1,8 +1,8 @@
-# Alexey Khachatryan 
+# Adarsh Sahu 
 
-[![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/alkhachatryan)
-[![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)](https://www.linkedin.com/in/alexey-khachatryan-8707b7a5/)
-[![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sahuadarsh0@gmail.com)
+[![Github](https://img.shields.io/github/followers/sahuadarsh0?label=Follow&style=social)](https://github.com/sahuadarsh0)
+[![Linkedin](https://img.shields.io/badge/-Adarsh%20Sahu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahuadarsh0/)](https://www.linkedin.com/in/sahuadarsh0/)
+[![Mail](https://img.shields.io/badge/-sahuadarsh0@gamil.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sahuadarsh0@gmail.com)
 
 
 
@@ -40,5 +40,5 @@ I'm open-source development enthusiast.
 
 ### Interesting stats
 
-![Alexey's stats](https://github-readme-stats.vercel.app/api?username=sahuadarsh0&show_icons=true)
+![Adarsh's stats](https://github-readme-stats.vercel.app/api?username=sahuadarsh0&show_icons=true)
 
