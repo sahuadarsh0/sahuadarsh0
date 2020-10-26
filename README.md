@@ -22,7 +22,7 @@ I'm open-source development enthusiast.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-
+<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 
 ### Interesting stats
 
