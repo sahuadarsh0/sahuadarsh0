@@ -13,7 +13,7 @@ I'm open-source development enthusiast.
 
 
 ## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/android/android-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
