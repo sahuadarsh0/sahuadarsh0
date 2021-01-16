@@ -8,7 +8,7 @@
 
 
 ## About me 
-I'm an Android Developer and Designer. I like to work with Codeigniter, Flutter and Koltin .
+I'm an Android Developer and Designer. I like to work with Codeigniter and Koltin .
 I'm open-source development enthusiast.
 
 
@@ -22,7 +22,6 @@ I'm open-source development enthusiast.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 
 ### Interesting stats
 
