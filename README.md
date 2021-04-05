@@ -19,9 +19,9 @@ I'm open-source development enthusiast.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img height="50" src="https://simpleicons.org/icons/adobexd.svg"></code>
+<code><img height="50" src="https://simpleicons.org/icons/figma.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 
 ### Interesting stats
 
