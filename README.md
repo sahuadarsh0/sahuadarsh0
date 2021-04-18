@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Sahu</h1>
 <h3 align="center">Android Developer | Kotlin | Coding enthusiast | Learner | UI Designer | Freelancer | Side Hustler</h3>
-	
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahuadarsh0&color=blueviolet&style=flat">
-</p>
-
-
-
-### 🤝🏻 &nbsp;Connect with Me
 
 [![Github](https://img.shields.io/github/followers/sahuadarsh0?label=Follow&style=social)](https://github.com/sahuadarsh0)
 [![Linkedin](https://img.shields.io/badge/-Adarsh%20Sahu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahuadarsh0/)](https://www.linkedin.com/in/sahuadarsh0/)
@@ -18,7 +10,7 @@
 
 
 
-### 👋 &nbsp;About me 
+### About me 
 
 I'm an Android Developer and Designer. I like to work with Codeigniter and Koltin .
 I'm open-source development enthusiast.
@@ -26,7 +18,7 @@ I'm open-source development enthusiast.
 
 
 
-### 🛠 &nbsp;Languages and Tools
+### Languages and Tools
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg"></code>
@@ -40,7 +32,7 @@ I'm open-source development enthusiast.
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/sahuadarsh0">
