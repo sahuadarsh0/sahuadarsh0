@@ -12,7 +12,7 @@
 [![Linkedin](https://img.shields.io/badge/-Adarsh%20Sahu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sahuadarsh0/)](https://www.linkedin.com/in/sahuadarsh0/)
 [![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/11467234?logo=stackoverflow&style=flat-square&logoColor=white&link=https://stackoverflow.com/story/sahuadarsh0/)](https://stackoverflow.com/story/sahuadarsh0/)
 [![Gmail](https://img.shields.io/badge/-sahuadarsh0@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sahuadarsh0@gmail.com)
-[![Twitter](https://img.shields.io/badge/-@sahuadarsh0?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/sahuadarsh0/)](https://twitter.com/sahuadarsh0)
+[![Twitter](https://img.shields.io/badge/-@sahuadarsh0-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sahuadarsh0/)](https://twitter.com/sahuadarsh0)
 
 
 
