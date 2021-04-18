@@ -31,4 +31,4 @@ I'm open-source development enthusiast.
 
 ### GitHub Analytics
 
-![Adarsh's stats](https://github-readme-stats.vercel.app/api?username=sahuadarsh0&show_icons=true&theme=dark)
+![Adarsh's stats](https://github-readme-stats.vercel.app/api?username=sahuadarsh0&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
