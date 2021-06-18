@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-sahuadarsh0@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sahuadarsh0@gmail.com)
 [![Twitter](https://img.shields.io/badge/-@sahuadarsh0-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sahuadarsh0/)](https://twitter.com/sahuadarsh0)
 [![Github](https://img.shields.io/github/followers/sahuadarsh0?label=Follow&style=social)](https://github.com/sahuadarsh0)
-
+![](https://komarev.com/ghpvc/?username=sahuadarsh0) <!-- Profile View Counter-->
 
 
 ### About me 
