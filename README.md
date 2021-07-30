@@ -12,7 +12,7 @@
 
 ### About me 
 
-I'm an Android Developer and Designer. I like to work with Codeigniter and Koltin .
+I'm an Android Developer and Designer. I like to work with Java and Koltin .
 I'm open-source development enthusiast.
 
 
