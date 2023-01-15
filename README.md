@@ -5,13 +5,13 @@
 ## Welcome to my hub
  
 - 👨‍💻 **#SelfTaught** Developer.
-- 📱 Mobile App developer.
+- 📱 currently working as _SDE - Android at Docquity_.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
 - Loves ✈️ and 👨‍💻.
 - Proud 🇮🇳.
 - ![](https://komarev.com/ghpvc/?username=sahuadarsh0) <!-- Profile View Counter-->
 
-_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose_ 🥽.
+_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and kotlin flows_ 🥽.
 
 I'm an Android Developer and UI Designer. I like to work with Java and Koltin .
 I'm open-source development enthusiast. 
