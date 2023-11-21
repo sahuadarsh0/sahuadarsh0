@@ -5,7 +5,7 @@
 ## Welcome to my hub
  
 - 👨‍💻 **#SelfTaught** Developer.
-- 📱 currently working as _SDE - Android at Docquity_.
+- 📱 currently working as _Android Engineer at Lenskart_.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
 - Loves ✈️ and 👨‍💻.
 - Proud 🇮🇳.
@@ -13,8 +13,8 @@
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and kotlin flows_ 🥽.
 
-I'm an Android Developer and UI Designer. I like to work with Java and Koltin .
-I'm open-source development enthusiast. 
+I'm an Android Developer and UI Designer. I like to work with Java and Koltin.
+I'm an open-source development enthusiast. 
 
 ## GitHub Analytics
 
