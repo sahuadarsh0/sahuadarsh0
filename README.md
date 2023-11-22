@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Adarsh</h1>
 
-<h3>Android Developer | Coding enthusiast | MCA Gold Medalist | UI Designer | Freelancer | Side Hustler</h3>
+<h3>Android Engineer | Coding enthusiast | MCA Gold Medalist | UI Designer | Side Hustler</h3>
 
 ## Welcome to my hub
  
 - 👨‍💻 **#SelfTaught** Developer.
-- 📱 currently working as _Android Engineer at Lenskart_.
+- 📱 currently working as _Android Engineer @ [Lenskart](https://lenskart.com)_.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
 - Loves ✈️ and 👨‍💻.
 - Proud 🇮🇳.
