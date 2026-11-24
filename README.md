@@ -27,7 +27,7 @@ I spend my time building scalable Android architecture, Jetpack Compose UI syste
 
 ### Core Stack
 
-`Kotlin` · `Java` · `Android SDK` · `Jetpack Compose` · `Coroutines & Flow` · `Media3 / ExoPlayer` · `Dagger / Hilt` · `Room` · `OkHttp / Retrofit` · `Gradle & KSP` · `Performance & Memory Profiling`
+`Kotlin` · `Java` · `Android SDK` · `Jetpack Compose` · `Coroutines & Flow` · `Media3 / ExoPlayer` · `Dagger / Hilt` · `Room` · `Gradle & KSP` · `Performance Profiling`
 
 ---
 
@@ -43,15 +43,14 @@ I spend my time building scalable Android architecture, Jetpack Compose UI syste
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sahuadarsh0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=a1a1aa&icon_color=34d399&ring_color=34d399" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sahuadarsh0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=18181b&text_color=52525b&icon_color=059669&ring_color=059669" />
-    <img alt="Adarsh Sahu GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sahuadarsh0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=a1a1aa&icon_color=34d399&ring_color=34d399" height="170" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahuadarsh0&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahuadarsh0&theme=default" />
+    <img alt="Adarsh Sahu GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahuadarsh0&theme=github_dark" width="49%" />
   </picture>
-  &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sahuadarsh0&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=a1a1aa" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sahuadarsh0&layout=compact&langs_count=6&hide_border=true&bg_color=ffffff&title_color=18181b&text_color=52525b" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahuadarsh0&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=f4f4f5&text_color=a1a1aa" height="170" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahuadarsh0&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahuadarsh0&theme=default" />
+    <img alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahuadarsh0&theme=github_dark" width="49%" />
   </picture>
 </p>
 
