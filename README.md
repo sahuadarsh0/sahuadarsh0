@@ -10,33 +10,33 @@
 
 <table>
 <tr>
-<td valign="top" width="56%">
+<td valign="top" width="58%">
 
 ### Open Source
 
-**Compiler & Build Tooling**
-- [**google/ksp#3321**](https://github.com/google/ksp/pull/3321) — Shut down KSP2 engine threads on `BuildService.close()` to eliminate Gradle metaspace leaks
-- [**square/kotlinpoet#2441**](https://github.com/square/kotlinpoet/pull/2441) — Escape triple quotes in single-line `%P` raw string literals *(merged)*
+<!-- oss-activity:start -->
+<sub>**17** external PRs · **6** merged · **15** repositories · auto-updated</sub>
 
-**Media & Graphics**
-- [**androidx/media#3576**](https://github.com/androidx/media/pull/3576) — Refine ADTS CBR `SeekMap` end position to last complete audio frame at EOF
-- [**androidx/media#3578**](https://github.com/androidx/media/pull/3578) — Format seek amount in Compose Material3 seek button content descriptions
-- [**chrisbanes/haze#1863**](https://github.com/chrisbanes/haze/pull/1863) — Reject nonfinite blur radii & preserve zero Skiko blur axis *(merged)*
+**Ecosystems**<br />[`chrisbanes/haze`](https://github.com/chrisbanes/haze) · [`floci-io/floci`](https://github.com/floci-io/floci) · [`MetrolistGroup/Metrolist`](https://github.com/MetrolistGroup/Metrolist) · [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) · [`square/kotlinpoet`](https://github.com/square/kotlinpoet) · [`Tougee/AudioRecorderView`](https://github.com/Tougee/AudioRecorderView) · `+9 more`
 
-**Testing & Apps**
-- [**cashapp/paparazzi#2566**](https://github.com/cashapp/paparazzi/pull/2566) · [**#2567**](https://github.com/cashapp/paparazzi/pull/2567) — Per-test native diff attachments & LayoutLib accessibility `Configuration`
-- [**Metrolist#5297**](https://github.com/MetrolistGroup/Metrolist/pull/5297) — Sync YouTube-featured playlists *(merged)*
+**Recent Contributions**
+- [**androidx/media#3578**](https://github.com/androidx/media/pull/3578) `open` — Format seek amount in Compose Material3 seek button descriptions
+- [**google/ksp#3321**](https://github.com/google/ksp/pull/3321) `open` — KSP2: Shut down engine threads on build service close to fix meta…
+- [**MetrolistGroup/Metrolist#5297**](https://github.com/MetrolistGroup/Metrolist/pull/5297) `merged` — fix(playlist): allow syncing YouTube-featured playlists
+- [**cashapp/paparazzi#2567**](https://github.com/cashapp/paparazzi/pull/2567) `open` — Restore device Configuration dimensions for AccessibilityRenderEx…
+- [**cashapp/paparazzi#2566**](https://github.com/cashapp/paparazzi/pull/2566) `open` — Track native report diff attachments per test execution
+<!-- oss-activity:end -->
 
 </td>
-<td valign="top" width="44%">
+<td valign="top" width="42%">
 
-### Building
+### Building Now
 
 [**wificam**](https://github.com/sahuadarsh0/wificam)<br />
-<sub>Zero-cloud 4K/1080p60 Android-to-PC webcam & studio mic. Rust, WinUI 3, Media Foundation virtual camera, Jetpack Compose, H.264/HEVC/AV1, RNNoise/AEC3.</sub>
+<sub>Zero-cloud 4K/1080p60 Android-to-PC webcam & studio mic — Rust, WinUI 3, Media Foundation virtual camera, Jetpack Compose, H.264/HEVC/AV1, RNNoise/AEC3.</sub>
 
-[**GoGrocery**](https://github.com/sahuadarsh0/GoGrocery) `149★`<br />
-<sub>Reference Android eCommerce architecture — MVVM, Coroutines/Flow, Dagger/Hilt, Room, Retrofit.</sub>
+**Mobile Platform @ [Lenskart](https://www.lenskart.com/)**<br />
+<sub>Android architecture, Compose UI systems, and runtime performance in Bengaluru.</sub>
 
 ---
 
