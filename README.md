@@ -17,7 +17,7 @@
 <!-- oss-activity:start -->
 <sub>**17** external PRs · **6** merged · **15** repositories · auto-updated</sub>
 
-**Ecosystems**<br />[`chrisbanes/haze`](https://github.com/chrisbanes/haze) · [`floci-io/floci`](https://github.com/floci-io/floci) · [`MetrolistGroup/Metrolist`](https://github.com/MetrolistGroup/Metrolist) · [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) · [`square/kotlinpoet`](https://github.com/square/kotlinpoet) · [`Tougee/AudioRecorderView`](https://github.com/Tougee/AudioRecorderView) · `+9 more`
+**Ecosystems**<br />[`androidx/media`](https://github.com/androidx/media) · [`cashapp/paparazzi`](https://github.com/cashapp/paparazzi) · [`chrisbanes/haze`](https://github.com/chrisbanes/haze) · [`floci-io/floci`](https://github.com/floci-io/floci) · [`MetrolistGroup/Metrolist`](https://github.com/MetrolistGroup/Metrolist) · [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) · `+9 more`
 
 **Recent Contributions**
 - [**androidx/media#3578**](https://github.com/androidx/media/pull/3578) `open` — Format seek amount in Compose Material3 seek button descriptions

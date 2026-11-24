@@ -102,10 +102,16 @@ def render_section(prs: list[dict]) -> str:
     repo_counts = Counter(p["repo"] for p in active_prs)
     repo_merged = Counter(p["repo"] for p in active_prs if p["status"] == "merged")
 
-    # Sort repos: merged count desc, total PRs desc, name asc
+    # Sort repos: prioritize active/merged Tier-0 ecosystems and recent contributions
+    repo_latest: dict[str, str] = {}
+    for p in active_prs:
+        r = p["repo"]
+        if p["created"] > repo_latest.get(r, ""):
+            repo_latest[r] = p["created"]
+
     ranked_repos = sorted(
         repo_counts.keys(),
-        key=lambda r: (-repo_merged[r], -repo_counts[r], r.lower()),
+        key=lambda r: (-(repo_counts[r] + repo_merged[r]), repo_latest.get(r, "") < "2026-01-01", -repo_counts[r], r.lower()),
     )
 
     top_links = [
