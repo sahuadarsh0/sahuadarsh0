@@ -57,5 +57,5 @@ Outside work, I debug compiler leaks, media pipeline edge cases, and rendering b
 ---
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sahuadarsh0&style=flat-square&color=14181f&labelColor=0d1117&label=profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sahuadarsh0&style=flat-square&color=14181f&labelColor=14181f&label=profile+views" alt="Profile views" />
 </p>

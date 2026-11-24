@@ -27,7 +27,7 @@ ASSETS_DIR = ROOT / "assets"
 START_MARKER = "<!-- oss-activity:start -->"
 END_MARKER = "<!-- oss-activity:end -->"
 MAX_RECENT_PRS = 5
-MAX_ECO_PILLS = 5
+MAX_ECO_PILLS = 6
 
 
 def _get_token() -> str:
@@ -184,26 +184,31 @@ def render_telemetry_svg(
             f'font-size="10.5" font-weight="500" letter-spacing="1.1">{html.escape(label)}</text>'
         )
 
-    # Segmented language bar
-    bar_x, bar_y, bar_w, bar_h = 36, 134, W - 72, 8
+    # Segmented language bar (exact width budget — zero overshoot)
+    bar_x, bar_y, bar_w, bar_h = 36.0, 134.0, float(W - 72), 8.0
     bar_segs = []
     legend_svg = []
+    gap = 3.0
+    n_langs = len(languages)
+    usable_w = bar_w - max(0, n_langs - 1) * gap
+    pct_sum = sum(p for _, p in languages) or 100.0
+    raw_ws = [max(8.0, usable_w * (p / pct_sum)) for _, p in languages]
+    scale = usable_w / (sum(raw_ws) or 1.0)
+    seg_ws = [w * scale for w in raw_ws]
+
     cur_x = bar_x
     leg_x = bar_x
-    for idx, (lang, pct) in enumerate(languages):
+    for idx, ((lang, pct), seg_w) in enumerate(zip(languages, seg_ws)):
         col = bar_palette[idx % len(bar_palette)]
-        seg_w = max(6.0, (bar_w - max(0, len(languages) - 1) * 3) * (pct / 100.0))
-        if cur_x + seg_w > bar_x + bar_w:
-            seg_w = max(2.0, bar_x + bar_w - cur_x)
-        bar_segs.append(f'  <rect x="{cur_x:.1f}" y="{bar_y}" width="{seg_w:.1f}" height="{bar_h}" rx="3" fill="{col}"/>')
-        cur_x += seg_w + 3
+        bar_segs.append(f'  <rect x="{cur_x:.1f}" y="{bar_y:.1f}" width="{seg_w:.1f}" height="{bar_h:.1f}" rx="3" fill="{col}"/>')
+        cur_x += seg_w + gap
         legend_svg.append(f'  <circle cx="{leg_x + 4:.1f}" cy="157" r="3.5" fill="{col}"/>')
         lbl = f"{lang} {pct:.0f}%"
         legend_svg.append(
             f'  <text x="{leg_x + 13:.1f}" y="161" fill="{muted}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" '
             f'font-size="11">{html.escape(lbl)}</text>'
         )
-        leg_x += len(lbl) * 7.2 + 28
+        leg_x += len(lbl) * 7.1 + 26
 
     # Ecosystem pills row
     pills_svg = []
@@ -212,28 +217,38 @@ def render_telemetry_svg(
     extra = len(ecosystems) - len(shown)
     labels = list(shown) + ([f"+{extra} more"] if extra > 0 else [])
     for idx, eco in enumerate(labels):
-        # Shorten owner/repo cleanly if long
-        disp = eco if len(eco) <= 22 else eco.split("/", 1)[-1]
-        pw = len(disp) * 6.8 + 20
-        if px + pw > W - 32:
+        disp = eco if len(eco) <= 20 else eco.split("/", 1)[-1]
+        pw = len(disp) * 6.7 + 18
+        if px + pw > W - 36:
+            rem = len(ecosystems) - idx
+            if rem > 0 and not eco.startswith("+"):
+                disp = f"+{rem} more"
+                pw = len(disp) * 6.7 + 18
+                if px + pw <= W - 32:
+                    pills_svg.append(
+                        f'  <rect x="{px:.1f}" y="176" width="{pw:.1f}" height="24" rx="6" fill="{pill_bg}" stroke="{pill_border}" stroke-width="1"/>'
+                    )
+                    pills_svg.append(
+                        f'  <text x="{px + 9:.1f}" y="191.5" fill="{subtle}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" '
+                        f'font-size="11">{html.escape(disp)}</text>'
+                    )
             break
         txt_col = subtle if eco.startswith("+") else fg
         pills_svg.append(
             f'  <rect x="{px:.1f}" y="176" width="{pw:.1f}" height="24" rx="6" fill="{pill_bg}" stroke="{pill_border}" stroke-width="1"/>'
         )
         pills_svg.append(
-            f'  <text x="{px + 10:.1f}" y="191.5" fill="{txt_col}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" '
+            f'  <text x="{px + 9:.1f}" y="191.5" fill="{txt_col}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" '
             f'font-size="11">{html.escape(disp)}</text>'
         )
         px += pw + 8
 
-    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d UTC")
     return "\n".join([
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" fill="none">',
         f'  <rect x="0.75" y="0.75" width="{W - 1.5}" height="{H - 1.5}" rx="12" fill="{panel}" stroke="{border}" stroke-width="1.2"/>',
         f'  <circle cx="36" cy="28" r="3.5" fill="{accent}"/>',
         f'  <text x="48" y="32" fill="{muted}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.4">OPEN SOURCE TELEMETRY</text>',
-        f'  <text x="{W - 36}" y="32" text-anchor="end" fill="{subtle}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.6">AUTO-SYNCED · {stamp}</text>',
+        f'  <text x="{W - 36}" y="32" text-anchor="end" fill="{subtle}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.8">AUTO-SYNCED · GITHUB</text>',
         f'  <line x1="24" y1="44" x2="{W - 24}" y2="44" stroke="{divider}" stroke-width="1"/>',
         *kpi_svg,
         f'  <line x1="24" y1="120" x2="{W - 24}" y2="120" stroke="{divider}" stroke-width="1"/>',
