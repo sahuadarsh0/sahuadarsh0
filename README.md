@@ -30,11 +30,11 @@ Outside work, I debug compiler leaks, media pipeline edge cases, and rendering b
 ### Recent Contributions
 
 <!-- oss-activity:start -->
-- [**androidx/media#3578**](https://github.com/androidx/media/pull/3578) &nbsp;`open`&nbsp; — Format seek amount in Compose Material3 seek button descriptions
-- [**google/ksp#3321**](https://github.com/google/ksp/pull/3321) &nbsp;`open`&nbsp; — KSP2: Shut down engine threads on build service close to fix metaspace leak
-- [**MetrolistGroup/Metrolist#5297**](https://github.com/MetrolistGroup/Metrolist/pull/5297) &nbsp;`merged`&nbsp; — fix(playlist): allow syncing YouTube-featured playlists
-- [**cashapp/paparazzi#2567**](https://github.com/cashapp/paparazzi/pull/2567) &nbsp;`open`&nbsp; — Restore device Configuration dimensions for AccessibilityRenderExtension
-- [**cashapp/paparazzi#2566**](https://github.com/cashapp/paparazzi/pull/2566) &nbsp;`open`&nbsp; — Track native report diff attachments per test execution
+- [**androidx/media#3581**](https://github.com/androidx/media/pull/3581) &nbsp;`open`&nbsp; — Clear active CastSession on session start/resume failure
+- [**cashapp/paparazzi#2569**](https://github.com/cashapp/paparazzi/pull/2569) &nbsp;`open`&nbsp; — Avoid zipping asset dir providers in PrepareResourcesTask
+- [**square/leakcanary#3025**](https://github.com/square/leakcanary/pull/3025) &nbsp;`open`&nbsp; — Add AndroidReferenceMatchers.INTERACTION_JANK_MONITOR for FrameTracker leak
+- [**square/leakcanary#3024**](https://github.com/square/leakcanary/pull/3024) &nbsp;`open`&nbsp; — Use wildcard classpath in Windows shark-cli.bat start script
+- [**airbnb/lottie-android#2750**](https://github.com/airbnb/lottie-android/pull/2750) &nbsp;`open`&nbsp; — Parse gradient opacity stops independently of "p"/"k" key order
 <!-- oss-activity:end -->
 
 <br />
