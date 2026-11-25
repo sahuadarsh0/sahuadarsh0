@@ -30,11 +30,11 @@ Outside work, I debug compiler leaks, media pipeline edge cases, and rendering b
 ### Recent Contributions
 
 <!-- oss-activity:start -->
+- [**google/ksp#3322**](https://github.com/google/ksp/pull/3322) &nbsp;`open`&nbsp; — Fix KDoc resolution across modifier lists, primary constructors, and multip…
+- [**googlemaps/android-maps-utils#1871**](https://github.com/googlemaps/android-maps-utils/pull/1871) &nbsp;`open`&nbsp; — fix(data): skip GroundOverlay without iconUrl in MapViewRenderer
+- [**MetrolistGroup/Metrolist#5357**](https://github.com/MetrolistGroup/Metrolist/pull/5357) &nbsp;`open`&nbsp; — fix(lyrics): stack manual lyrics sources inside a Column
 - [**androidx/media#3581**](https://github.com/androidx/media/pull/3581) &nbsp;`open`&nbsp; — Clear active CastSession on session start/resume failure
 - [**cashapp/paparazzi#2569**](https://github.com/cashapp/paparazzi/pull/2569) &nbsp;`open`&nbsp; — Avoid zipping asset dir providers in PrepareResourcesTask
-- [**square/leakcanary#3025**](https://github.com/square/leakcanary/pull/3025) &nbsp;`open`&nbsp; — Add AndroidReferenceMatchers.INTERACTION_JANK_MONITOR for FrameTracker leak
-- [**square/leakcanary#3024**](https://github.com/square/leakcanary/pull/3024) &nbsp;`open`&nbsp; — Use wildcard classpath in Windows shark-cli.bat start script
-- [**airbnb/lottie-android#2750**](https://github.com/airbnb/lottie-android/pull/2750) &nbsp;`open`&nbsp; — Parse gradient opacity stops independently of "p"/"k" key order
 <!-- oss-activity:end -->
 
 <br />
