@@ -30,11 +30,11 @@ Outside work, I debug compiler leaks, media pipeline edge cases, and rendering b
 ### Recent Contributions
 
 <!-- oss-activity:start -->
-- [**google/ksp#3322**](https://github.com/google/ksp/pull/3322) &nbsp;`open`&nbsp; — Fix KDoc resolution across modifier lists, primary constructors, and multip…
-- [**googlemaps/android-maps-utils#1871**](https://github.com/googlemaps/android-maps-utils/pull/1871) &nbsp;`open`&nbsp; — fix(data): skip GroundOverlay without iconUrl in MapViewRenderer
-- [**MetrolistGroup/Metrolist#5357**](https://github.com/MetrolistGroup/Metrolist/pull/5357) &nbsp;`open`&nbsp; — fix(lyrics): stack manual lyrics sources inside a Column
-- [**androidx/media#3581**](https://github.com/androidx/media/pull/3581) &nbsp;`open`&nbsp; — Clear active CastSession on session start/resume failure
-- [**cashapp/paparazzi#2569**](https://github.com/cashapp/paparazzi/pull/2569) &nbsp;`open`&nbsp; — Avoid zipping asset dir providers in PrepareResourcesTask
+- [**airbnb/epoxy#1401**](https://github.com/airbnb/epoxy/pull/1401) &nbsp;`open`&nbsp; — Make symbol-processing-aa-embeddable compileOnly in epoxy-processor
+- [**saket/telephoto#191**](https://github.com/saket/telephoto/pull/191) &nbsp;`open`&nbsp; — Close disk cache snapshot when image cannot be sub-sampled
+- [**saket/telephoto#190**](https://github.com/saket/telephoto/pull/190) &nbsp;`open`&nbsp; — Defer closing SubSamplingImageSource until decoder creation finishes
+- [**MetrolistGroup/Metrolist#5382**](https://github.com/MetrolistGroup/Metrolist/pull/5382) &nbsp;`open`&nbsp; — fix(android): check raw TAKE_AUDIO_FOCUS app op mode
+- [**saket/telephoto#189**](https://github.com/saket/telephoto/pull/189) &nbsp;`open`&nbsp; — Close peeked BufferedSource in SubSamplingImageSource.exists()
 <!-- oss-activity:end -->
 
 <br />

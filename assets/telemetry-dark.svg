@@ -4,13 +4,13 @@
   <text x="48" y="32" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.4">OPEN SOURCE TELEMETRY</text>
   <text x="824" y="32" text-anchor="end" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.8">AUTO-SYNCED · GITHUB</text>
   <line x1="24" y1="44" x2="836" y2="44" stroke="#21262d" stroke-width="1"/>
-  <text x="40.0" y="86" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">24</text>
+  <text x="40.0" y="86" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">30</text>
   <text x="40.0" y="105" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" letter-spacing="1.1">EXTERNAL PRS</text>
   <line x1="227.0" y1="56" x2="227.0" y2="108" stroke="#21262d" stroke-width="1"/>
-  <text x="243.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">7</text>
+  <text x="243.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">9</text>
   <text x="243.0" y="105" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" letter-spacing="1.1">MERGED</text>
   <line x1="430.0" y1="56" x2="430.0" y2="108" stroke="#21262d" stroke-width="1"/>
-  <text x="446.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">17</text>
+  <text x="446.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">19</text>
   <text x="446.0" y="105" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" letter-spacing="1.1">REPOSITORIES</text>
   <line x1="633.0" y1="56" x2="633.0" y2="108" stroke="#21262d" stroke-width="1"/>
   <text x="649.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">182</text>
@@ -31,18 +31,18 @@
   <text x="318.7" y="161" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">Rust 1%</text>
   <circle cx="385.4" cy="157" r="3.5" fill="#52525b"/>
   <text x="394.4" y="161" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">Python 1%</text>
-  <rect x="36.0" y="176" width="111.8" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="45.0" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">androidx/media</text>
-  <rect x="155.8" y="176" width="131.9" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="164.8" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">cashapp/paparazzi</text>
-  <rect x="295.7" y="176" width="78.3" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="304.7" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">Metrolist</text>
-  <rect x="382.0" y="176" width="85.0" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="391.0" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">google/ksp</text>
-  <rect x="475.0" y="176" width="131.9" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="484.0" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">square/leakcanary</text>
-  <rect x="614.9" y="176" width="118.5" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="623.9" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">chrisbanes/haze</text>
+  <rect x="36.0" y="176" width="78.3" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
+  <text x="45.0" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">Metrolist</text>
+  <rect x="122.3" y="176" width="111.8" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
+  <text x="131.3" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">androidx/media</text>
+  <rect x="242.1" y="176" width="131.9" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
+  <text x="251.1" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">cashapp/paparazzi</text>
+  <rect x="382.0" y="176" width="118.5" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
+  <text x="391.0" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">saket/telephoto</text>
+  <rect x="508.5" y="176" width="85.0" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
+  <text x="517.5" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">google/ksp</text>
+  <rect x="601.5" y="176" width="131.9" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
+  <text x="610.5" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">square/leakcanary</text>
   <rect x="741.4" y="176" width="71.6" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="750.4" y="191.5" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">+11 more</text>
+  <text x="750.4" y="191.5" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">+13 more</text>
 </svg>
