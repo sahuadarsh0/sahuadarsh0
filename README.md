@@ -30,11 +30,11 @@ Outside work, I debug compiler leaks, media pipeline edge cases, and rendering b
 ### Recent Contributions
 
 <!-- oss-activity:start -->
-- [**airbnb/epoxy#1401**](https://github.com/airbnb/epoxy/pull/1401) &nbsp;`open`&nbsp; — Make symbol-processing-aa-embeddable compileOnly in epoxy-processor
-- [**saket/telephoto#191**](https://github.com/saket/telephoto/pull/191) &nbsp;`open`&nbsp; — Close disk cache snapshot when image cannot be sub-sampled
-- [**saket/telephoto#190**](https://github.com/saket/telephoto/pull/190) &nbsp;`open`&nbsp; — Defer closing SubSamplingImageSource until decoder creation finishes
-- [**MetrolistGroup/Metrolist#5382**](https://github.com/MetrolistGroup/Metrolist/pull/5382) &nbsp;`open`&nbsp; — fix(android): check raw TAKE_AUDIO_FOCUS app op mode
-- [**saket/telephoto#189**](https://github.com/saket/telephoto/pull/189) &nbsp;`open`&nbsp; — Close peeked BufferedSource in SubSamplingImageSource.exists()
+- [**arkivanov/Decompose#1082**](https://github.com/arkivanov/Decompose/pull/1082) &nbsp;`open`&nbsp; — Clear saved web history state from sessionStorage after reading
+- [**chrisbanes/haze#1939**](https://github.com/chrisbanes/haze/pull/1939) &nbsp;`merged`&nbsp; — Stop pre-draw listener churn and missing-listener gap in HazeEffectNode
+- [**firebase/firebase-android-sdk#8867**](https://github.com/firebase/firebase-android-sdk/pull/8867) &nbsp;`open`&nbsp; — [Perf] Skip redundant SharedPreferences writes in DeviceCacheManager
+- [**RevenueCat/purchases-android#4645**](https://github.com/RevenueCat/purchases-android/pull/4645) &nbsp;`open`&nbsp; — fix(blockstore): add timeout and cancellation handling to Block Store calls
+- [**rushiranpise/Shizuku-Next#286**](https://github.com/rushiranpise/Shizuku-Next/pull/286) &nbsp;`open`&nbsp; — fix(receiver): register non-exported receivers without DYNAMIC_RECEIVER_NOT…
 <!-- oss-activity:end -->
 
 <br />
