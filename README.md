@@ -30,11 +30,11 @@ Outside work, I debug compiler leaks, media pipeline edge cases, and rendering b
 ### Recent Contributions
 
 <!-- oss-activity:start -->
+- [**MetrolistGroup/Metrolist#5437**](https://github.com/MetrolistGroup/Metrolist/pull/5437) &nbsp;`open`&nbsp; — fix(android): sync YouTube history when loading statistics
+- [**chrisbanes/haze#1959**](https://github.com/chrisbanes/haze/pull/1959) &nbsp;`merged`&nbsp; — Preserve Backdrop fallback preparation in merged Glass clusters
+- [**chrisbanes/haze#1954**](https://github.com/chrisbanes/haze/pull/1954) &nbsp;`merged`&nbsp; — Skip preparing merged Glass clusters when no source is available
 - [**skydoves/landscapist#1053**](https://github.com/skydoves/landscapist/pull/1053) &nbsp;`open`&nbsp; — Avoid replacing app-registered SingletonImageLoader factory in coil3
 - [**skydoves/landscapist#1052**](https://github.com/skydoves/landscapist/pull/1052) &nbsp;`open`&nbsp; — Map ContentScale to Coil Scale in coil3 CoilImage
-- [**MetrolistGroup/Metrolist#5423**](https://github.com/MetrolistGroup/Metrolist/pull/5423) &nbsp;`open`&nbsp; — fix(desktop): skip shared WebView2 cleanup when cancelling Windows login
-- [**MetrolistGroup/Metrolist#5422**](https://github.com/MetrolistGroup/Metrolist/pull/5422) &nbsp;`open`&nbsp; — fix(desktop): sync playbackDuration before currentTrack changes
-- [**arkivanov/Decompose#1082**](https://github.com/arkivanov/Decompose/pull/1082) &nbsp;`open`&nbsp; — Clear saved web history state from sessionStorage after reading
 <!-- oss-activity:end -->
 
 <br />

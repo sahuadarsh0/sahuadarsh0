@@ -4,10 +4,10 @@
   <text x="48" y="32" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.4">OPEN SOURCE TELEMETRY</text>
   <text x="824" y="32" text-anchor="end" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.8">AUTO-SYNCED · GITHUB</text>
   <line x1="24" y1="44" x2="836" y2="44" stroke="#21262d" stroke-width="1"/>
-  <text x="40.0" y="86" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">40</text>
+  <text x="40.0" y="86" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">43</text>
   <text x="40.0" y="105" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" letter-spacing="1.1">EXTERNAL PRS</text>
   <line x1="227.0" y1="56" x2="227.0" y2="108" stroke="#21262d" stroke-width="1"/>
-  <text x="243.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">13</text>
+  <text x="243.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">16</text>
   <text x="243.0" y="105" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" letter-spacing="1.1">MERGED</text>
   <line x1="430.0" y1="56" x2="430.0" y2="108" stroke="#21262d" stroke-width="1"/>
   <text x="446.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">24</text>
@@ -33,14 +33,14 @@
   <text x="394.4" y="161" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">Python 1%</text>
   <rect x="36.0" y="176" width="78.3" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
   <text x="45.0" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">Metrolist</text>
-  <rect x="122.3" y="176" width="111.8" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="131.3" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">androidx/media</text>
-  <rect x="242.1" y="176" width="118.5" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="251.1" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">chrisbanes/haze</text>
-  <rect x="368.6" y="176" width="131.9" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="377.6" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">cashapp/paparazzi</text>
-  <rect x="508.5" y="176" width="118.5" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="517.5" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">saket/telephoto</text>
-  <rect x="635.0" y="176" width="145.3" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
-  <text x="644.0" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">arkivanov/Decompose</text>
+  <rect x="122.3" y="176" width="118.5" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
+  <text x="131.3" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">chrisbanes/haze</text>
+  <rect x="248.8" y="176" width="111.8" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
+  <text x="257.8" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">androidx/media</text>
+  <rect x="368.6" y="176" width="145.3" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
+  <text x="377.6" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">arkivanov/Decompose</text>
+  <rect x="521.9" y="176" width="131.9" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
+  <text x="530.9" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">cashapp/paparazzi</text>
+  <rect x="661.8" y="176" width="118.5" height="24" rx="6" fill="#161b22" stroke="#2d333b" stroke-width="1"/>
+  <text x="670.8" y="191.5" fill="#f4f4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">saket/telephoto</text>
 </svg>
