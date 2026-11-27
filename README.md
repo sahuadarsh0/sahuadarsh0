@@ -30,11 +30,11 @@ Outside work, I debug compiler leaks, media pipeline edge cases, and rendering b
 ### Recent Contributions
 
 <!-- oss-activity:start -->
+- [**skydoves/landscapist#1053**](https://github.com/skydoves/landscapist/pull/1053) &nbsp;`open`&nbsp; — Avoid replacing app-registered SingletonImageLoader factory in coil3
+- [**skydoves/landscapist#1052**](https://github.com/skydoves/landscapist/pull/1052) &nbsp;`open`&nbsp; — Map ContentScale to Coil Scale in coil3 CoilImage
+- [**MetrolistGroup/Metrolist#5423**](https://github.com/MetrolistGroup/Metrolist/pull/5423) &nbsp;`open`&nbsp; — fix(desktop): skip shared WebView2 cleanup when cancelling Windows login
+- [**MetrolistGroup/Metrolist#5422**](https://github.com/MetrolistGroup/Metrolist/pull/5422) &nbsp;`open`&nbsp; — fix(desktop): sync playbackDuration before currentTrack changes
 - [**arkivanov/Decompose#1082**](https://github.com/arkivanov/Decompose/pull/1082) &nbsp;`open`&nbsp; — Clear saved web history state from sessionStorage after reading
-- [**chrisbanes/haze#1939**](https://github.com/chrisbanes/haze/pull/1939) &nbsp;`merged`&nbsp; — Stop pre-draw listener churn and missing-listener gap in HazeEffectNode
-- [**firebase/firebase-android-sdk#8867**](https://github.com/firebase/firebase-android-sdk/pull/8867) &nbsp;`open`&nbsp; — [Perf] Skip redundant SharedPreferences writes in DeviceCacheManager
-- [**RevenueCat/purchases-android#4645**](https://github.com/RevenueCat/purchases-android/pull/4645) &nbsp;`open`&nbsp; — fix(blockstore): add timeout and cancellation handling to Block Store calls
-- [**rushiranpise/Shizuku-Next#286**](https://github.com/rushiranpise/Shizuku-Next/pull/286) &nbsp;`open`&nbsp; — fix(receiver): register non-exported receivers without DYNAMIC_RECEIVER_NOT…
 <!-- oss-activity:end -->
 
 <br />

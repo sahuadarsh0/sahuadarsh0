@@ -4,13 +4,13 @@
   <text x="48" y="32" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.4">OPEN SOURCE TELEMETRY</text>
   <text x="824" y="32" text-anchor="end" fill="#6e7681" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.8">AUTO-SYNCED · GITHUB</text>
   <line x1="24" y1="44" x2="836" y2="44" stroke="#21262d" stroke-width="1"/>
-  <text x="40.0" y="86" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">36</text>
+  <text x="40.0" y="86" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">40</text>
   <text x="40.0" y="105" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" letter-spacing="1.1">EXTERNAL PRS</text>
   <line x1="227.0" y1="56" x2="227.0" y2="108" stroke="#21262d" stroke-width="1"/>
-  <text x="243.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">12</text>
+  <text x="243.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">13</text>
   <text x="243.0" y="105" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" letter-spacing="1.1">MERGED</text>
   <line x1="430.0" y1="56" x2="430.0" y2="108" stroke="#21262d" stroke-width="1"/>
-  <text x="446.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">23</text>
+  <text x="446.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">24</text>
   <text x="446.0" y="105" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" letter-spacing="1.1">REPOSITORIES</text>
   <line x1="633.0" y1="56" x2="633.0" y2="108" stroke="#21262d" stroke-width="1"/>
   <text x="649.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">182</text>
