@@ -7,7 +7,7 @@
   <text x="40.0" y="86" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">43</text>
   <text x="40.0" y="105" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" letter-spacing="1.1">EXTERNAL PRS</text>
   <line x1="227.0" y1="56" x2="227.0" y2="108" stroke="#21262d" stroke-width="1"/>
-  <text x="243.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">16</text>
+  <text x="243.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">20</text>
   <text x="243.0" y="105" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" letter-spacing="1.1">MERGED</text>
   <line x1="430.0" y1="56" x2="430.0" y2="108" stroke="#21262d" stroke-width="1"/>
   <text x="446.0" y="86" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.6">24</text>

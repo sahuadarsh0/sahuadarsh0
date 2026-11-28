@@ -30,7 +30,7 @@ Outside work, I debug compiler leaks, media pipeline edge cases, and rendering b
 ### Recent Contributions
 
 <!-- oss-activity:start -->
-- [**MetrolistGroup/Metrolist#5437**](https://github.com/MetrolistGroup/Metrolist/pull/5437) &nbsp;`open`&nbsp; — fix(android): sync YouTube history when loading statistics
+- [**MetrolistGroup/Metrolist#5437**](https://github.com/MetrolistGroup/Metrolist/pull/5437) &nbsp;`merged`&nbsp; — fix(android): sync YouTube history when loading statistics
 - [**chrisbanes/haze#1959**](https://github.com/chrisbanes/haze/pull/1959) &nbsp;`merged`&nbsp; — Preserve Backdrop fallback preparation in merged Glass clusters
 - [**chrisbanes/haze#1954**](https://github.com/chrisbanes/haze/pull/1954) &nbsp;`merged`&nbsp; — Skip preparing merged Glass clusters when no source is available
 - [**skydoves/landscapist#1053**](https://github.com/skydoves/landscapist/pull/1053) &nbsp;`open`&nbsp; — Avoid replacing app-registered SingletonImageLoader factory in coil3
